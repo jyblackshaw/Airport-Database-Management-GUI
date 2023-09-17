@@ -21,8 +21,6 @@ The project mandates the creation of a tkinter-based GUI, enabling users to inte
   - Add a new region to the database by specifying relevant data points.
   - Update an existing region in the database.
 
-The project introduces the concept of Python packages to organize the code effectively, allowing for better management of modules and their functionalities. It presents an opportunity to understand the importance of structuring code for efficient collaboration and maintenance.
-
 ## Usage
 
 1. Clone or download this repository.

@@ -23,7 +23,7 @@ The project mandates the creation of a tkinter-based GUI, enabling users to inte
 
 The project introduces the concept of Python packages to organize the code effectively, allowing for better management of modules and their functionalities. It presents an opportunity to understand the importance of structuring code for efficient collaboration and maintenance.
 
-## Getting Started
+## Usage
 
 1. Clone or download this repository.
 2. Ensure Python is installed on your system.
